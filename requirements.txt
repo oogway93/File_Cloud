@@ -1,0 +1,9 @@
+alembic==1.11.1
+fastapi==0.97.0
+psycopg2-binary==2.9.6
+pytest==7.3.2
+python-dotenv==0.21.1
+SQLAlchemy==2.0.16
+starlette==0.27.0
+uvicorn==0.22.0
+fastapi[all]
